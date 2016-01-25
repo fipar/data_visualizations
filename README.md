@@ -1,2 +1,6 @@
 # data_visualizations
-Playing with data visualization
+
+Some tests/experiments on visualizing performance and troubleshooting
+data.
+
+
